@@ -7,3 +7,4 @@ COPY . /app
 WORKDIR /app
 
 CMD ["python", "application.py"]
+
